@@ -23,6 +23,22 @@
       "category": "Eletrônicos",
       "amount": 5000,
       "createdAt": "2024-09-15T14:39:25.661Z"
+    },
+    {
+      "amount": 10000,
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "createdAt": "2024-09-15T19:27:14.455Z",
+      "id": 4
+    },
+    {
+      "amount": 7500,
+      "category": "Eletrônicos",
+      "description": "iPhone",
+      "type": "outcome",
+      "createdAt": "2024-09-15T19:40:45.748Z",
+      "id": 5
     }
   ]
 }
